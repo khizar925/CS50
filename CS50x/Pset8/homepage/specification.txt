@@ -1,0 +1,26 @@
+Specification.txt:
+
+HTML Tags:
+1. <nav>
+2. <img>
+3. <p>
+4. <a>
+5. <div>
+6. <button>
+7. <h1>
+8. <h2>
+9. <table>
+10. <th>
+
+CSS Properties:
+1. color
+2. font-size
+3. text-align
+4. background-color
+5. margin
+
+JavaScript Usage:
+JavaScript is used to display a welcome alert message when the page loads.
+
+Bootstrap Integration:
+Bootstrap is integrated into the website to enhance its appearance and functionality. It provides responsive navigation, styling for buttons, tables, and forms, ensuring the website looks appealing and functions well across different devices.
